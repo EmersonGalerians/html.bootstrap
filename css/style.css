@@ -1,0 +1,13 @@
+*{
+    background-color: rgba(0, 0, 0, 50%);
+}
+#banner{
+    margin-top: 55px;
+    min-height: 400px;
+    background: rgba(0, 0, 0, 50%);
+}
+.col-12{
+    padding-top: 10vw;
+}
+
+
